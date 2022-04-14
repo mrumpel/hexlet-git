@@ -1,1 +1,2 @@
-edition 2
+git is awesome
+new line
