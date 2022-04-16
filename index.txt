@@ -1,1 +1,2 @@
-file for index test
+<h1>GO!</h1>
+<p>file for index test</p>
